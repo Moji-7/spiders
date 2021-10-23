@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "name": "Python: Launch Scrapy ",
+            "justMyCode": false,
+            "type": "python",
+            "request": "launch",
+            "module": "scrapy",
+            "args": [
+                "crawl",
+                "quotes"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
